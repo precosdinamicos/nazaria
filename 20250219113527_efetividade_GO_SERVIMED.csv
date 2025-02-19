@@ -1,0 +1,27 @@
+Início do processo;Início da coleta;Fim da coleta;Concorrente;UF;Tentativas;Esperado;Coletado;Distinto;Tempo de coleta entre EAN;Tempo total de coleta;Tipo de erro;Mensagem de erro
+2025-02-19 11:17:14;2025-02-19 11:35:27;2025-02-19 11:37:20;SERVIMED;GO;10;;;;;112,612339;Erro de time out;"Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7931EE735+13397]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF79347B1D4+2060308]
+	Microsoft::Applications::Events::EventProperty::empty [0x00007FF7933D2338+1368440]
+	(No symbol) [0x00007FF792FC32A9]
+	(No symbol) [0x00007FF792FC349B]
+	(No symbol) [0x00007FF7930040E7]
+	(No symbol) [0x00007FF792FE429F]
+	(No symbol) [0x00007FF792FB964D]
+	(No symbol) [0x00007FF793001C00]
+	(No symbol) [0x00007FF792FE3FC3]
+	(No symbol) [0x00007FF792FB8B96]
+	(No symbol) [0x00007FF792FB7E50]
+	(No symbol) [0x00007FF792FB89C3]
+	(No symbol) [0x00007FF793040214]
+	(No symbol) [0x00007FF7930D06CF]
+	(No symbol) [0x00007FF793043A53]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF7935345DD+279981]
+	simdutf::get_active_implementation [0x00007FF7931778C1+409425]
+	simdutf::get_active_implementation [0x00007FF793172BA4+389684]
+	simdutf::get_active_implementation [0x00007FF793172CE9+390009]
+	simdutf::get_active_implementation [0x00007FF7931662E6+338294]
+	BaseThreadInitThunk [0x00007FFB087D4CB0+16]
+	RtlUserThreadStart [0x00007FFB0A89ECDB+43]
+"
