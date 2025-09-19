@@ -1,0 +1,2 @@
+inicio_processo;inicio_coleta;fim_coleta;concorrente;uf;tentativas;esperado;coletado;distinto;tempo_coleta_ean;tempo_coleta_total;tipo_erro;msg_erro
+2025-09-19 17:13:29;2025-09-19 17:25:44;2025-09-19 17:31:28;NAZARIA;CE;1;18894;18894;18894;0,018238495871705302;344,598141;;
