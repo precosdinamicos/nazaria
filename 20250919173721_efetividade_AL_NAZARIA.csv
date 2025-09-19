@@ -1,2 +1,0 @@
-inicio_processo;inicio_coleta;fim_coleta;concorrente;uf;tentativas;esperado;coletado;distinto;tempo_coleta_ean;tempo_coleta_total;tipo_erro;msg_erro
-2025-09-19 17:13:29;2025-09-19 17:37:21;2025-09-19 17:42:45;NAZARIA;AL;1;;;;;324,610662;Erro desconhecido;single positional indexer is out-of-bounds
